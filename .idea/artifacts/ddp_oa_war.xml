@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ddp-oa:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ddp-oa.war">
+      <element id="artifact" artifact-name="ddp-oa:war exploded" />
+    </root>
+  </artifact>
+</component>
